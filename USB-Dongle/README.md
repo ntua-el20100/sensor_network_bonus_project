@@ -6,3 +6,5 @@
 Έπειτα στο IDE, File->Open Projects from File System... επιλέγεται ο φάκελος STM32CubeIDE εντός του project.
 
 Τροποποιήθηκαν τα αρχειά Core/Src/main.c, Core/Inc/app\_conf.h, STM32\_WPAN/App/app\_zigbee.c, STM32\_WPAN/App/app\_zigbee.h .
+
+Αφού γίνει compilation του προγράμματος και παραχθεί εκτελέσιμο από το IDE, θα πρέπει να χρησιμοποιηθεί το πρόγραμμα STM32CubeProgrammer, με το dongle σε DFU mode.
