@@ -1,4 +1,4 @@
-Το project δημιουργήθηκε με το πρόγραμμα CubeMX μέσω του STM32CubeIDE. Για χρήη αρκεί να γίνει import στο CubeIDE.
+Το project δημιουργήθηκε με το πρόγραμμα CubeMX μέσω του STM32CubeIDE. Για χρήση αρκεί να γίνει στο CubeIDE: File->Open Project from Filesystem... και επιλογή του φακέλου.
 
 Οι δικές μας τροποποιήσεις είναι ό,τι βρίσκεται εντός των // USER CODE segments.
 Τροποποιήθηκαν τα αρχειά Core/Src/main.c, Core/Inc/app\_conf.h, STM32\_WPAN/App/app\_zigbee.c, STM32\_WPAN/App/app\_zigbee.h .
